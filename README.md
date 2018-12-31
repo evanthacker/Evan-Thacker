@@ -1,9 +1,14 @@
 ### Evan Thacker
 
 
-You can use the [editor on GitHub](https://github.com/evanthacker/github-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+At age 13, I picked up a book on designing websites and read underneath my history book in class. I started to program and build websites in the early 2000's. Then, I started to do both freelance work for small businesses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In 2017, I was did marketing automation on Hubspot and Web Design on Wordpress work for CEA Marketing, an advertising agency handling regional and International clients.
+
+In January 2018, I was accepted by Google and Udacity on a development scholarship, which allowed me to build both android apps and object oriented programs in python.
+
+In August of 2018, I began freelancing basic websites and marketing automation campaigns with my own company, ET Creative Studios.
+
 
 ### Markdown
 
